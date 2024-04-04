@@ -1,0 +1,25 @@
+# PROJECT
+---------
+
+* ChatGPT as a Creative Writing Assistant
+-----------------------------------------
+Welcome to an exciting journey where we unlock the potential of artificial intelligence to fuel your creative writing! This project will guide you through using a powerful text-based 
+generative AI developed by OpenAI that operates like ChatGPT. We will refer to the generative AI component as “ChatGPT” throughout this project given that they function the same.
+
+You will use ChatGPT as a creative writing assistant. You’ll learn how to harness its capabilities to brainstorm, draft, and refine your own short stories, exploring the realms of 
+imagination with an AI companion.
+
+1.
+Interacting with ChatGPT is like talking with a knowledgeable friend. The key to getting useful responses lies in how you frame your questions or prompts. Be specific about what you’re 
+asking for, and don’t hesitate to guide the AI with details or context for the best results. Try asking ChatGPT a specific question related to creative writing, such as “What are some 
+characteristics of a compelling protagonist?” or give it a prompt like “Describe a bustling medieval marketplace.”
+
+
+Hint
+Example Prompt: “Can you explain what characteristics make a protagonist compelling and memorable? Also, could you describe a bustling medieval marketplace, focusing on the sensory 
+details like sounds, smells, and the atmosphere?”
+
+
+
+
+
